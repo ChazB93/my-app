@@ -1,5 +1,7 @@
 This app is developed using React.js, .NET, and MS SQL Server
 
+The APP is accessible here: https://chazb93.github.io/my-app/
+
 The tools needed to run it.
 
 - Node.js (https://nodejs.org/en/download)

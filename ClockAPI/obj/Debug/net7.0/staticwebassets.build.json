@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "52IEzppj6r94gr9CUxtjZZo2p0C7KFTFnKfriVjczqE=",
+  "Source": "ClockAPI",
+  "BasePath": "_content/ClockAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
